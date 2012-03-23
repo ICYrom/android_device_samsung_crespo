@@ -28,6 +28,8 @@ PRODUCT_PACKAGES := \
 
 # Live Wallpapers
 PRODUCT_PACKAGES += \
+        LibertySettings \
+        Trebuchet \
         Galaxy4 \
         HoloSpiralWallpaper \
         LiveWallpapers \
